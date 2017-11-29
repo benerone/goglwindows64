@@ -26,8 +26,11 @@ Open shell (in my case, I use git shell), and execute commands:
 
 Based on this [link](https://bunkernetz.com/2013/09/01/building-go-glgl-on-windows/)
 from your unzipped directory
+
 copy lib/libglew32.a in your install of TDM ->lib (in my case C:\TDM-GCC-64\lib)
+
 copy include/GL  in your install of TDM -> include/GL (in my case C:\TDM-GCC-64\include\GL) 
+
 the dll doesn't seem necessary.
 
 ## Step 5
